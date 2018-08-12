@@ -1,4 +1,6 @@
-# ECE4960-PA4 - Programming Assignment 4 Compact SPICE for ODE Solutions
+Compact SPICE Simulator using ODE Solvers
+
+Written in conjunction with Ariana Bruno (amb633) for a programming assignment in ECE4960.
 
 **Summary**
 This program focuses on building ODE solvers for SPICE-like circuit simulation. Three different one-step solvers (Euler, Standard Runge-Kutta, and Adaptive Runge-Kutta) were built and tested. The main program builds all relevant functions in the C++ language. A succint implementation on MATLAB is included to cross-check that the values obtained are accurate.
